@@ -6,7 +6,7 @@ This is a Discord bot that fetches and shares memes via API integration.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/discord_meme_bot.git
+   git clone https://github.com/rinmz/discord_meme_bot.git
    cd discord_meme_bot
    ```
 
